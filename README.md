@@ -1,2 +1,2 @@
 # predict-val-winner
-**WORK IN PROGRESS
+WORK IN PROGRESS
